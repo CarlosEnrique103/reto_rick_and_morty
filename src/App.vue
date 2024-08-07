@@ -6,9 +6,9 @@ import { RouterLink, RouterView } from 'vue-router'
   <header >
     <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="300" height="300" />
 
-    <div >
+    <div>
       <nav class="flex flex-row items-center gap-3 mt-4">
-        <RouterLink to="/" class=" bg-custom-tertiary  text-custom-white px-4 py-2">List</RouterLink>      
+        <RouterLink to="/" class="bg-custom-tertiary  text-custom-white px-4 py-2">Characters</RouterLink>      
       </nav>
     </div>
   </header>
