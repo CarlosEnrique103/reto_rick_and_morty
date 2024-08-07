@@ -47,6 +47,6 @@ npm run test:e2e:dev
 ```
 
 ## 🖥  Live
-![Rick and Morty](https://www.google.com)
+![Rick and Morty](https://retorickandmorty.netlify.app/)
 
 ### Happy Coding! 🚀
